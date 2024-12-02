@@ -108,14 +108,14 @@ margin-top: -10px;
 /* Ajuste para pantallas medianas (tablets) */
 @media (min-width: 768px) and (max-width: 1023px) {
     #Fondo {
-        height: 2700px; /* Aumentamos la altura del fondo en tablets */
+        height: 2800px; /* Aumentamos la altura del fondo en tablets */
     }
 }
 
 /* Ajuste para pantallas pequeñas (móviles) */
 @media (max-width: 767px) {
     #Fondo {
-        height: 2700px; /* Aumentamos aún más la altura en pantallas móviles */
+        height: 2800px; /* Aumentamos aún más la altura en pantallas móviles */
     }
 }
 
@@ -176,14 +176,14 @@ margin-top: -10px;
 /* Ajuste para pantallas medianas (tablets) */
 @media (min-width: 768px) and (max-width: 1023px) {
     #Fondo1 {
-        height: 1300px; /* Aumentamos la altura del fondo en tablets */
+        height: 1400px; /* Aumentamos la altura del fondo en tablets */
     }
 }
 
 /* Ajuste para pantallas pequeñas (móviles) */
 @media (max-width: 767px) {
     #Fondo1 {
-        height: 1300px; /* Aumentamos aún más la altura en pantallas móviles */
+        height: 1400px; /* Aumentamos aún más la altura en pantallas móviles */
     }
 }
 
